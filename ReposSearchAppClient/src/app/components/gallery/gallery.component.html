@@ -1,0 +1,19 @@
+<div class="gallery">
+    <mat-card *ngFor="let repo of repositories" class="repo-card">
+        <mat-card-header>
+            <mat-card-title>{{ repo.name }}</mat-card-title>
+        </mat-card-header>
+        <img mat-card-image [src]="repo.avatarUrl" alt="Avatar" />
+        <mat-card-actions>
+            <button *ngIf="source == 'search'" mat-icon-button color="accent" (click)="markRepo(repo)">
+                <mat-icon>bookmark</mat-icon>
+            </button>
+            <button *ngIf="source == 'bookmark'" mat-icon-button color="accent" (click)="unMarkRepo(repo)">
+                <mat-icon>delete</mat-icon>
+            </button>
+            <button mat-button color="accent" (click)="navigateToRepo(repo)">
+                {{ constans.WATCH_REPO }}
+            </button>
+        </mat-card-actions>
+    </mat-card>
+</div>

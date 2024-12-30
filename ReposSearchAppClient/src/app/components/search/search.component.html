@@ -1,0 +1,15 @@
+<!-- search.component.html -->
+<div class="search-container">
+  <mat-card class="search-card">
+    <div class="search-bar">
+      <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Search Repositories</mat-label>
+        <input matInput [(ngModel)]="searchTerm" placeholder="Enter repository name" />
+      </mat-form-field>
+      <button mat-raised-button color="primary" (click)="searchRepositories()" [disabled]="!searchTerm">
+        <mat-icon>search</mat-icon> Search
+      </button>
+    </div>
+  </mat-card>
+  <app-gallery [repositories]="repositories" [source]="constans.SEARCH_COMPONENT"></app-gallery>
+</div>

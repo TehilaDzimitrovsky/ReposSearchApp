@@ -1,0 +1,51 @@
+.gallery,
+.bookmarked-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 10px 0;
+}
+
+.repo-card {
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.repo-card:hover {
+    transform: scale(1.05);
+}
+
+.mat-tab-group {
+    margin-bottom: 20px;
+}
+
+button.mat-button,
+button.mat-icon-button {
+    font-size: 14px;
+    text-transform: none;
+}
+
+.mat-card-actions {
+    padding: 10px;
+}
+
+.mat-card-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+}
+
+.mat-card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mat-card-content {
+    font-size: 14px;
+}
+
+img.mat-card-image {
+    border-radius: 50%;
+    max-width: 50px;
+    margin-right: 10px;
+}

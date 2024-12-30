@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "ReposSearchAppServer.Controllers.AuthController",
+    "Method": "GetSecretKey",
+    "RelativePath": "Auth/GetSecretKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReposSearchAppServer.Controllers.MarkController",
+    "Method": "GetAllMarkedRepos",
+    "RelativePath": "Mark/GetAllMarkedRepos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReposSearchAppServer.Controllers.MarkController",
+    "Method": "MarkRepo",
+    "RelativePath": "Mark/MarkRepo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repo",
+        "Type": "ReposSearchAppServer.Entities.Repository",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReposSearchAppServer.Controllers.MarkController",
+    "Method": "UnMarkRepo",
+    "RelativePath": "Mark/UnMarkRepo/{repoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repoId",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReposSearchAppServer.Controllers.SearchRepoController",
+    "Method": "SearchRepos",
+    "RelativePath": "Search/SearchRepos/{term}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "term",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

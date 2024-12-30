@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\controllers\\searchrepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\controllers\\searchrepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\interfaces\\isearchinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\interfaces\\isearchinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\services\\markservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\services\\markservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\interfaces\\imarkinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\interfaces\\imarkinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\interfaces\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\interfaces\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|c:\\users\\owner\\source\\repos\\repossearchappserver\\repossearchappserver\\migrations\\20241228230935_addrepostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600A486B-808E-4F86-8316-1DE344E7E7CF}|ReposSearchAppServer\\ReposSearchAppServer.csproj|solutionrelative:repossearchappserver\\migrations\\20241228230935_addrepostable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchRepoController.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\SearchRepoController.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Controllers\\SearchRepoController.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\SearchRepoController.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Controllers\\SearchRepoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:04:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\MarkController.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Controllers\\MarkController.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\MarkController.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Controllers\\MarkController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:18:21.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:49:26.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISearchInterface.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\ISearchInterface.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Interfaces\\ISearchInterface.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\ISearchInterface.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Interfaces\\ISearchInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:06:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\AuthService.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:54:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkService.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\MarkService.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Services\\MarkService.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\MarkService.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Services\\MarkService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:03:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\BaseService.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:54:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Services\\SearchService.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:20:33.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Program.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Program.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Program.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:57:07.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\AppContext.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\AppContext.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\AppContext.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:49:33.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMarkInterface.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\IMarkInterface.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Interfaces\\IMarkInterface.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\IMarkInterface.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Interfaces\\IMarkInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:06:54.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthInterface.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\IAuthInterface.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Interfaces\\IAuthInterface.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Interfaces\\IAuthInterface.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Interfaces\\IAuthInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:51:15.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Entities\\Repository.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Entities\\Repository.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Entities\\Repository.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Entities\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:02:24.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\appsettings.json",
+              "RelativeToolTip": "ReposSearchAppServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T19:21:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReposSearchAppServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T00:24:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241228230935_AddReposTable.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Migrations\\20241228230935_AddReposTable.cs",
+              "RelativeDocumentMoniker": "ReposSearchAppServer\\Migrations\\20241228230935_AddReposTable.cs",
+              "ToolTip": "C:\\Users\\owner\\source\\repos\\ReposSearchAppServer\\ReposSearchAppServer\\Migrations\\20241228230935_AddReposTable.cs",
+              "RelativeToolTip": "ReposSearchAppServer\\Migrations\\20241228230935_AddReposTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:09:35.904Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
